@@ -1,5 +1,10 @@
 # yu-2023.github.io
-How to Program Java , Kotlin , Clojure simultaniously
+EN - How to Program Java, Kotlin, and Clojure Simultaneously.
+RU - Как программировать одновременно на Java, Kotlin и Clojure.
+LV - Kā programmēt Java, Kotlin un Clojure vienlaicīgi.
+DE - So programmieren Sie Java, Kotlin und Clojure gleichzeitig.
+FR - Comment programmer Java, Kotlin et Clojure simultanément.
+ES - Cómo programar Java, Kotlin y Clojure simultáneamente.
 
 <html>
   <body>
