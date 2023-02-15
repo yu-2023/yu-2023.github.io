@@ -9,7 +9,9 @@ How to Program Java , Kotlin , Clojure simultaniously
   
 <table border="0">
   <tr>
-    <td><a href="https://yu-2023.github.io/yu-java" target="_blank"><img src="https://yu-2023.github.io/yu-java/screen/JAV_10_tabs.jpg"></a></td>
+    <td>
+      <a href="https://yu-2023.github.io/yu-java" target="_blank"><img src="https://yu-2023.github.io/yu-java/screen/JAV_10_tabs.jpg" width="1000" height="600"></a>
+    </td>
   </tr>
 </table>
 
