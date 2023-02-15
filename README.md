@@ -21,7 +21,7 @@ How to Program Java , Kotlin , Clojure simultaniously
 
 <table border="0">
   <tr>
-    <td><a href="https://yu-2023.github.io/yu-clojure" target="_blank"><img src="https://yu-2023.github.io/yu-clojurescreen/CLO_07_internal_frame_six.jpg"></a></td>
+    <td><a href="https://yu-2023.github.io/yu-clojure" target="_blank"><img src="https://yu-2023.github.io/yu-clojure/screen/CLO_07_internal_frame_six.jpg"></a></td>
   </tr>
 </table>
 
