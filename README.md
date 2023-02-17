@@ -2,9 +2,9 @@
 
 <strong>
   
-<a href="https://yu-2023.github.io/inf/info_EN.html" target="_blank">- EN - How to Program Java, Kotlin, and Clojure Simultaneously.</a>
-<a href="https://yu-2023.github.io/inf/info_RU.html" target="_blank">- RU - Как программировать одновременно на Java, Kotlin и Clojure.
-<a href="https://yu-2023.github.io/inf/info_LV.html" target="_blank">- LV - Kā programmēt Java, Kotlin un Clojure vienlaicīgi.
+- <a href="https://yu-2023.github.io/inf/info_EN.html" target="_blank">EN - How to Program Java, Kotlin, and Clojure Simultaneously.</a>
+- <a href="https://yu-2023.github.io/inf/info_RU.html" target="_blank">RU - Как программировать одновременно на Java, Kotlin и Clojure.
+- <a href="https://yu-2023.github.io/inf/info_LV.html" target="_blank">LV - Kā programmēt Java, Kotlin un Clojure vienlaicīgi.
 - DE - So programmieren Sie Java, Kotlin und Clojure gleichzeitig.
 - FR - Comment programmer Java, Kotlin et Clojure simultanément.
 - ES - Cómo programar Java, Kotlin y Clojure simultáneamente.
