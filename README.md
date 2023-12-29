@@ -41,5 +41,21 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://yu-2023.github.io/yu-groovy" target="_blank"><img src="https://yu-2023.github.io/yu-groovy/screen/GRO_10_tabs.jpg" width="500" height="300"></a>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td>
+      <a href="https://yu-2023.github.io/yu-scala" target="_blank"><img src="https://yu-2023.github.io/yu-scala/screen/SCA_07_internal_frame_six.jpg" width="500" height="300"></a>
+    </td>
+  </tr>
+</table>
+
   </body>
 </html>
